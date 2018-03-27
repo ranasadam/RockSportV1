@@ -1,0 +1,5 @@
+XSym
+0055
+7b765f24f5f5d0e916fd2683ac284ab2
+../../../../../React/React/Views/RCTTabBarItemManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

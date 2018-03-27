@@ -1,0 +1,5 @@
+XSym
+0054
+f880e5b6d98beae01c36230cf24a17bf
+../../../../../React/React/Base/RCTJSMethodRegistrar.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,5 @@
+XSym
+0052
+7269304cd72ff7e154bb931c991504c3
+../../../../../React/React/Views/RCTNavItemManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

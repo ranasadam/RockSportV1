@@ -1,0 +1,5 @@
+XSym
+0044
+6146ac064c188a30810daf68a1d7bbac
+../../../../../React/React/Views/RCTSwitch.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

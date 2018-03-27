@@ -1,0 +1,5 @@
+XSym
+0049
+c24f100cca9b0714f2207994e8ae09e3
+../../../../../React/React/Base/RCTBridgeModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

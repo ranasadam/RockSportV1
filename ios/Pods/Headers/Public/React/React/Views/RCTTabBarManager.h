@@ -1,0 +1,5 @@
+XSym
+0051
+f2b8311b565b74939998d30d86981b1a
+../../../../../React/React/Views/RCTTabBarManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

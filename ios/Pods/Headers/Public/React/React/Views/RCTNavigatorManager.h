@@ -1,0 +1,5 @@
+XSym
+0054
+953df88e496ef64604cdfc85cea87bad
+../../../../../React/React/Views/RCTNavigatorManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

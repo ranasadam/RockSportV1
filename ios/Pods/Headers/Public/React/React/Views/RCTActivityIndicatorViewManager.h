@@ -1,0 +1,5 @@
+XSym
+0066
+9b3ba5df0daf1e5fdb2e296ed1291974
+../../../../../React/React/Views/RCTActivityIndicatorViewManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

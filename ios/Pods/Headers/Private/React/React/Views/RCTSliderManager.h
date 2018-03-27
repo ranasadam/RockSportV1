@@ -1,0 +1,5 @@
+XSym
+0051
+45e45a44093e79fe6195feffc3d0fd0e
+../../../../../React/React/Views/RCTSliderManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
